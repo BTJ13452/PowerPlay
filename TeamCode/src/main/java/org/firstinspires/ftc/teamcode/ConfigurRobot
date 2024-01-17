@@ -1,0 +1,8 @@
+// findPoleFront = hardwareMap.get(DistanceSensor.class, "findPoleFront");
+//findPoleBack = hardwareMap.get(DistanceSensor.class, "findPoleBack");
+ControlHub{
+
+}
+ExpansionHub{
+
+}
